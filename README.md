@@ -82,12 +82,12 @@ motto:     "작게 만들고, 바로 써 보고, 함께 나누기"
 ## 📈 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=peanutradio&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&bg_color=1a1b27" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=peanutradio&theme=dracula" />
   <img height="170" src="https://streak-stats.demolab.com?user=peanutradio&theme=dracula&hide_border=true&background=1a1b27" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=peanutradio&bg_color=1a1b27&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&area_color=ff79c6&hide_border=true" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peanutradio&theme=dracula" />
 </p>
 
 <div align="center">
